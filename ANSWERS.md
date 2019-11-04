@@ -11,6 +11,7 @@ As my name?
 It's not a path but rails will match the prefix from the route to the correct path
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
 It shows the message on top of the page, saying either Name can't be blank or Name has already been taken.
+https://github.com/apa915436/proj1/
 # Give us feedback on the project and decal below!
 
 # Extra credit: Link your Heroku deployed app
